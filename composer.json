@@ -1,7 +1,7 @@
 {
-    "name": "ensepar/html2pdf-bundle",
+    "name": "rdmumayan/html2pdf-bundle",
     "type": "symfony-bundle",
-    "description": "Use HTML2PDF as a Symfony2 Service",
+    "description": "Forked version of Tristan's html2pdf-bundle. Use HTML2PDF as a Symfony2 Service",
     "keywords": ["pdf", "tcpdf", "html2pdf"],
     "homepage": "https://github.com/OwlyCode/EnseparHtml2pdfBundle",
     "license": "MIT",
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.4",
         "symfony/symfony": ">=2.0",
-        "spipu/html2pdf": "~5.2"
+        "rdmumayan/html2pdf": "~5.2"
     },
     "require-dev": {
         "sensio/framework-extra-bundle": "~3.0",
